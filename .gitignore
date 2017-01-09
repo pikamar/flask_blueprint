@@ -1,0 +1,14 @@
+# Basics
+*.py[cod]
+*.pyc
+*.db
+*.sublime-workspace
+*.sublime-project
+__pycache__
+
+# Logs
+
+# virtual environments
+.env
+
+
